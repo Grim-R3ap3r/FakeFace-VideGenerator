@@ -1,0 +1,1 @@
+python demo.py  --config config/vox-adv-256.yaml --driving_video zomato.mp4 --source_image adarshiiitm.jpeg --checkpoint vox-adv-cpk.pth.tar --relative --adapt_scale --cpu
